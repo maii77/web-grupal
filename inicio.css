@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(226, 123, 175);
+.INICIO{
+text-align: center;
+}
+inicio{
+    text-align: center;
+}
+}
+.papa{
+    display: flex;
+}
+li{
+    margin-right: 25px;
+    list-style: none;
+}

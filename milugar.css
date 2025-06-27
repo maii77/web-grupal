@@ -1,0 +1,15 @@
+body{background-color: blanchedalmond;
+.mi lugar{
+text-align: center;
+}
+carinamilugar{
+    text-align: center;
+}
+}
+.papa{
+    display: flex;
+}
+li{
+    margin-right: 25px;
+    list-style: none;
+}

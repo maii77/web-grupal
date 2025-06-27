@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(131, 228, 183);
+}
+.tarea{
+    text-align: center;
+}
+.papa{
+    display: flex;
+}
+li{
+    margin-right: 25px;
+    list-style: none;
+}
